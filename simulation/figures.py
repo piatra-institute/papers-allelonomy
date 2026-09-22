@@ -40,7 +40,7 @@ def plot_formation(res: dict, path: str) -> None:
             label="recursive responsibility: committed lineages stay")
     ax.set_xlabel("generation", fontsize=9)
     ax.set_ylabel("capacity gap between formation sites", fontsize=9)
-    ax.set_title("stratification without a planner, and its reduction at a stated cost",
+    ax.set_title("capacity gap between sites by generation",
                  fontsize=10, color=INK)
     ax.legend(frameon=False, fontsize=8.5, loc="lower right")
     _style(ax)
@@ -64,7 +64,7 @@ def plot_exit_voice(res: dict, path: str) -> None:
     ax.set_xlabel("period", fontsize=9)
     ax.set_ylabel("institutional quality", fontsize=9)
     ax.set_ylim(0, 1.05)
-    ax.set_title("exit, voice, and who inherits the wreck", fontsize=10, color=INK)
+    ax.set_title("institutional quality after a scandal by exit regime", fontsize=10, color=INK)
     ax.legend(frameon=False, fontsize=8.5, loc="lower left")
     _style(ax)
     fig.tight_layout()
@@ -89,7 +89,7 @@ def plot_epistemics(res: dict, path: str) -> None:
     ax.set_xticklabels(cols, fontsize=9)
     ax.set_yticks(range(len(regimes)))
     ax.set_yticklabels(labels, fontsize=8.5)
-    ax.set_title("accuracy of belief by regime; what each condition buys",
+    ax.set_title("accuracy of belief by regime and institution state",
                  fontsize=10, color=INK)
     ax.grid(False)
     fig.colorbar(im, ax=ax, fraction=0.035, pad=0.03)

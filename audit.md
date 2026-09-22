@@ -2,6 +2,11 @@
 
 Dated log of editorial passes and verification runs. Newest first.
 
+## 2026-09-23 — prose revision
+
+Prose rewritten against the house standards. Headings made descriptive (Introduction, Enlightenment and relational autonomy, From self-government to sovereignty, The social production of the chooser, Model design, Sorting and the formation loop, Exit, voice and institutional decline, Epistemic dependence and its conditions, Clinical care, Definition of allelonomy, Objections, Conclusion, Reproducibility).
+Values audited: all are Monte Carlo or deterministic simulation outputs with no grid-derived thresholds. The pooled-majority accuracy of 0.87 for 21 signals at 0.62 matches the exact binomial (0.8707). results.json unchanged by figure edits.
+
 ## 2026-08-08 — v1, first full draft to publication
 
 Scope: the entire paper, simulation, and evidence base, from the seed chat to publication.

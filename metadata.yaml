@@ -1,14 +1,31 @@
 slug: allelonomy
 web_slug: allelonomy
-title: "Allelonomy: Autonomy After Sovereignty"
-header: "Allelonomy"
-created: "2026-08"        # inception month (drives YYYY/MM archive path)
-date: "August 2026"           # publication month, e.g. "May 2026" (shown on web)
+title: 'Allelonomy: Autonomy After Sovereignty'
+header: Allelonomy
+created: 2026-08
+date: August 2026
 paper_dir: paper
 has_simulation: true
-claims_target: results.json   # results.json | claim-ledger | none
+claims_target: results.json
 repo: git@github.com:piatra-institute/papers-allelonomy.git
 github: https://github.com/piatra-institute/papers-allelonomy
-status: published             # draft | built | published
-abstract: |-
-  Modernity's exit from guardianship produced a figure it did not intend: the sovereign chooser, whose capacities, preferences, and menu of options were formed by institutions and technical systems that have vanished from the chooser's self-description, and who therefore experiences produced choices as original self-authorship, epistemic dependence as humiliation, and collective obligation as intrusion. This paper names the position beyond both the ward and the sovereign. Allelonomy, from allelon, one another, and nomos, law, is self-rule through one another: the capacity of distinct persons to govern themselves through reciprocal, contestable, and non-dominating relations that also participate in forming them. The word has a documented prior use for mutual dependence, and mutual dependence alone is nothing, since a cartel and a conspiracy network are also mutually dependent; four conditions make dependence emancipatory, and the paper's simulation prices each by deleting it. In a two-site formation loop where children's capacities are partly made by the site that raises them, mild private preference for better peers stratifies the population with no planner and no changed law, a capacity gap of 0.28 by generation 25; a standing commitment by part of the advantaged to stay cuts the gap to 0.13 at a measured private cost of 0.04 per committed family per generation, so recursive responsibility is real and it is not free. In an institution maintained by the voice of its articulate members, free exit after a scandal removes exactly those members, and quality spirals from 0.6 to the floor at 0.05, inherited by everyone who could not leave; forbidding exit holds quality at 0.95, and accountable exit, which keeps 0.6 of a leaver's contribution and voice attached, stabilizes quality at 0.54 while 17 of 100 members still leave: choice survives, and so does the institution. In an epistemic world where an expert institution is right 0.9 of the time when honest and 0.35 when captured, and one person's research alone is right 0.62 of the time, the ward scores 0.9 and 0.35, tracking the institution all the way down; the sovereign scores 0.62 everywhere; the herd, dependence without distinction, reproduces the ward's numbers with extra steps; and the allelonomic configuration, 21 independent signals pooled, the institution audited when the pool disagrees, scores 0.9 honest and 0.77 captured. Delete non-domination, letting the institution suppress the pool, and the same configuration returns to 0.35. Freedom, on this account, is neither obedience nor autarky. It is the power to participate in governing the relations through which one becomes capable of acting at all.
+status: published
+abstract: 'The modern exit from guardianship produced an unintended figure, the sovereign chooser, whose
+  capacities, preferences and options were formed by institutions and technical systems absent from the
+  chooser''s self-description. We name a position beyond both the ward and the sovereign. Allelonomy,
+  from Greek *allelon* (one another) and *nomos* (law), is self-rule through one another: the capacity
+  of distinct persons to govern themselves through reciprocal, contestable and non-dominating relations
+  that also help form them. Because cartels are also mutually dependent, we specify four conditions and
+  test each in simulation by deleting it. In a two-site formation loop, mild private preference for better
+  peers stratifies capacities with no planner, reaching a gap of 0.28 by generation 25; a standing commitment
+  by part of the advantaged to stay reduces the gap to 0.13 at a cost of 0.04 per committed family per
+  generation. In an institution maintained by the voice of its articulate members, free exit after a scandal
+  removes those members and quality falls from 0.6 to a floor of 0.05; forbidding exit holds quality at
+  0.95, and accountable exit, which keeps 0.6 of a leaver''s contribution and voice attached, stabilizes
+  it at 0.54 while 17 of 100 members leave. In an epistemic model, deference scores 0.9 under an honest
+  institution and 0.35 under a captured one, solitary research 0.62 in both, and herding matches deference;
+  pooling 21 independent signals with audits scores 0.9 and 0.77, and returns to 0.35 when the institution
+  can suppress the pool.'
+web_blurb: 'Self-rule through one another: autonomy defined by four conditions, each tested by deletion
+  in simulations of school sorting, institutional exit and epistemic dependence, as an alternative to
+  both guardianship and the sovereign chooser.'
