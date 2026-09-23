@@ -26,7 +26,7 @@ Every entry verified against Crossref, OpenLibrary, or a bibliographic record be
 | Mackenzie and Stoljar (2000), *Relational Autonomy* | OUP | prior session | The normative base |
 | Mill (1859), *On Liberty* | London: Parker | OpenLibrary | The liberal self |
 | Mol (2008), *The Logic of Care* | 10.4324/9780203927076, Routledge | Crossref | Care against choice |
-| Naniwada (1993), Japanese perspective | 10.1007/978-94-015-8183-7_8, Kluwer, 153–171 | Crossref | The term's documented prior use |
+| Naniwada (1993), Japanese perspective | 10.1007/978-94-015-8183-7_8, in Dunfee and Nagayasu (eds.), *Business Ethics: Japan and the Global Economy*, Kluwer, 153–171 | Crossref | The term's documented prior use |
 | Nguyen (2020), echo chambers | 10.1017/epi.2018.32, Episteme 17(2): 141–161 | Crossref | Trust structures gone wrong |
 | O'Neill (2002), *A Question of Trust* | CUP | PhilPapers | Trustworthiness over commanded trust |
 | Oreskes and Conway (2010), *Merchants of Doubt* | Bloomsbury | OpenLibrary | Manufactured ignorance |
@@ -43,3 +43,9 @@ Every entry verified against Crossref, OpenLibrary, or a bibliographic record be
 
 - The seed's wider constellation (Hegel, Brandom, Habermas, Butler, Simondon, Hacking, Oyama, Laland, Heyes, Vygotsky, Hutchins, Clark, Canguilhem, Rose, Rabinow, Duster, Roberts, Agar, Luhmann, Agamben, Schmitt, Friston, Hayek, Beck, Giddens, Brown, Eyal, Jasanoff, Tronto, Proctor, Mills): duplicated jobs or the biopolitical extension the paper does not run; Schmitt and Friston bounded out per the seed's own stop conditions.
 - **Coauthorship** (the seed's intermediate answer): kept as a rejected candidate inside the naming discussion.
+
+## Structured bibliography (2026-09-23)
+
+The inline reference list was migrated to references.yaml (CSL) and in-text citations to Pandoc [@id] syntax. 17 entries carry DOIs resolved through doi.org content negotiation (8 matched automatically in Crossref; Balibar, Collins and Evans, Fricker, Longino, Mackenzie and Stoljar, Nguyen, Ostrom, Pettit and Stiegler assigned by hand from Crossref searches). Fifteen entries were entered by hand without DOIs: Arendt (chapter in *Between Past and Future*), Boltanski and Chiapello, Bourdieu, Castoriadis, Deleuze (*October* 59), Dewey, Hirschman, Kant (*Berlinische Monatsschrift* 4), Kittay (1999 first edition), Mill, Mol, O'Neill, Oreskes and Conway, Polanyi and Illich (the Crossref match for Illich is a later Marion Boyars/Equinox record, so the Harper and Row 1973 edition is cited without a DOI). Each was confirmed through contemporary reviews indexed in Crossref or the publisher record.
+Correction from the DOI record: Naniwada (1993) appears in *Business Ethics: Japan and the Global Economy*, edited by Thomas W. Dunfee and Yukimasa Nagayasu (Kluwer), pp. 153–171; the legacy list had placed it in P. M. Minus (ed.), *The Ethics of Business in a Global Economy*. Source claims in claims.yaml were checked against abstracts from Crossref, OpenAlex and the OUP and Cambridge book records.
+

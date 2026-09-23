@@ -1,10 +1,10 @@
 {
-  "manuscript_sha256": "92b03b67689a7253f54d57e8a6155a2413d67d16c29268e26fa4126badaa9748",
+  "manuscript_sha256": "c7c6122e78118bcb25e2ad19fbf160b54a15966e20d9706ccb162afcb29a150c",
   "full_read": true,
   "argument_review": true,
   "structure_review": true,
   "voice_review": true,
   "source_review": true,
   "final_read": true,
-  "notes": "Prose revision: descriptive headings; 'this paper' 9 -> 0 and 'rather than' 5 -> 0; abstract rewritten (245 words); aphorisms, costume metaphors and the closing flourish removed; generic 'he'/'her' replaced with 'they'; every number and citation preserved."
+  "notes": "Structured-evidence migration: inline bibliography converted to references.yaml (CSL) with Pandoc [@id] citations; claims.yaml ledger and execution receipt added; prose unchanged. One bibliographic correction (Naniwada 1993 container volume and editors)."
 }

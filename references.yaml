@@ -1,0 +1,438 @@
+# CSL references with stable IDs; cite with Pandoc [@id] syntax.
+# Migrated from the legacy inline bibliography. Entries with a DOI were resolved through doi.org
+# content negotiation (CSL-JSON) and checked for year and title; others were matched in Crossref
+# or entered by hand. Provenance per entry is in sources.md.
+references:
+- id: arendt1961
+  type: chapter
+  title: What Is Freedom?
+  author:
+  - family: Arendt
+    given: Hannah
+  container-title: 'Between Past and Future: Six Exercises in Political Thought'
+  publisher: Viking Press
+  publisher-place: New York
+  issued:
+    date-parts:
+    - - 1961
+- id: balibar2014
+  type: book
+  title: 'Equaliberty: Political Essays'
+  author:
+  - family: Balibar
+    given: Étienne
+  publisher: Duke University Press
+  DOI: 10.1215/9780822377221
+  URL: http://dx.doi.org/10.1215/9780822377221
+  issued:
+    date-parts:
+    - - 2014
+  translator:
+  - family: Ingram
+    given: James
+  publisher-place: Durham, NC
+- id: boltanski2005
+  type: book
+  title: The New Spirit of Capitalism
+  author:
+  - family: Boltanski
+    given: Luc
+  - family: Chiapello
+    given: Ève
+  publisher: Verso
+  publisher-place: London
+  issued:
+    date-parts:
+    - - 2005
+  translator:
+  - family: Elliott
+    given: Gregory
+- id: bourdieu1984
+  type: book
+  title: 'Distinction: A Social Critique of the Judgement of Taste'
+  author:
+  - family: Bourdieu
+    given: Pierre
+  publisher: Harvard University Press
+  publisher-place: Cambridge, MA
+  issued:
+    date-parts:
+    - - 1984
+  translator:
+  - family: Nice
+    given: Richard
+- id: castoriadis1987
+  type: book
+  title: The Imaginary Institution of Society
+  author:
+  - family: Castoriadis
+    given: Cornelius
+  publisher: MIT Press
+  publisher-place: Cambridge, MA
+  issued:
+    date-parts:
+    - - 1987
+  translator:
+  - family: Blamey
+    given: Kathleen
+- id: collins2002
+  type: article-journal
+  title: 'The Third Wave of Science Studies: Studies of Expertise and Experience'
+  author:
+  - family: Collins
+    given: H. M.
+  - family: Evans
+    given: Robert
+  container-title: Social Studies of Science
+  volume: '32'
+  issue: '2'
+  page: 235-296
+  DOI: 10.1177/0306312702032002003
+  issued:
+    date-parts:
+    - - 2002
+- id: deleuze1992
+  type: article-journal
+  title: Postscript on the Societies of Control
+  author:
+  - family: Deleuze
+    given: Gilles
+  container-title: October
+  volume: '59'
+  page: 3-7
+  issued:
+    date-parts:
+    - - 1992
+- id: dewey1927
+  type: book
+  title: The Public and Its Problems
+  author:
+  - family: Dewey
+    given: John
+  publisher: Henry Holt
+  publisher-place: New York
+  issued:
+    date-parts:
+    - - 1927
+- id: foucault1982
+  type: article-journal
+  title: The Subject and Power
+  author:
+  - given: Michel
+    family: Foucault
+  container-title: Critical Inquiry
+  volume: '8'
+  issue: '4'
+  page: 777-795
+  DOI: 10.1086/448181
+  issued:
+    date-parts:
+    - - 1982
+- id: fricker2007
+  type: book
+  title: 'Epistemic Injustice: Power and the Ethics of Knowing'
+  author:
+  - given: Miranda
+    family: Fricker
+  publisher: Oxford University Press
+  DOI: 10.1093/acprof:oso/9780198237907.001.0001
+  URL: http://dx.doi.org/10.1093/acprof:oso/9780198237907.001.0001
+  issued:
+    date-parts:
+    - - 2007
+  publisher-place: Oxford
+- id: hardwig1985
+  type: article-journal
+  title: Epistemic Dependence
+  author:
+  - given: John
+    family: Hardwig
+  container-title: The Journal of Philosophy
+  volume: '82'
+  issue: '7'
+  page: 335-349
+  DOI: 10.2307/2026523
+  issued:
+    date-parts:
+    - - 1985
+- id: hirschman1970
+  type: book
+  title: 'Exit, Voice, and Loyalty: Responses to Decline in Firms, Organizations, and States'
+  author:
+  - family: Hirschman
+    given: Albert O.
+  publisher: Harvard University Press
+  publisher-place: Cambridge, MA
+  issued:
+    date-parts:
+    - - 1970
+- id: illich1973
+  type: book
+  title: Tools for Conviviality
+  author:
+  - given: Ivan
+    family: Illich
+  publisher: Harper and Row
+  issued:
+    date-parts:
+    - - 1973
+  publisher-place: New York
+- id: kant1784
+  type: article-journal
+  title: 'Beantwortung der Frage: Was ist Aufklärung?'
+  author:
+  - family: Kant
+    given: Immanuel
+  container-title: Berlinische Monatsschrift
+  volume: '4'
+  page: 481-494
+  issued:
+    date-parts:
+    - - 1784
+  language: de
+- id: kittay1999
+  type: book
+  title: 'Love''s Labor: Essays on Women, Equality, and Dependency'
+  author:
+  - family: Kittay
+    given: Eva Feder
+  publisher: Routledge
+  publisher-place: New York
+  issued:
+    date-parts:
+    - - 1999
+- id: latour2004
+  type: article-journal
+  title: Why Has Critique Run out of Steam? From Matters of Fact to Matters of Concern
+  author:
+  - given: Bruno
+    family: Latour
+  container-title: Critical Inquiry
+  volume: '30'
+  issue: '2'
+  page: 225-248
+  DOI: 10.1086/421123
+  issued:
+    date-parts:
+    - - 2004
+- id: longino1990
+  type: book
+  title: 'Science as Social Knowledge: Values and Objectivity in Scientific Inquiry'
+  author:
+  - family: Longino
+    given: Helen E.
+  publisher: Princeton University Press
+  DOI: 10.1515/9780691209753
+  URL: http://dx.doi.org/10.1515/9780691209753
+  issued:
+    date-parts:
+    - - 1990
+  publisher-place: Princeton, NJ
+- id: mackenzie2000
+  type: book
+  title: 'Relational Autonomy: Feminist Perspectives on Autonomy, Agency, and the Social Self'
+  editor:
+  - given: Catriona
+    family: Mackenzie
+  - given: Natalie
+    family: Stoljar
+  publisher: Oxford University Press
+  DOI: 10.1093/oso/9780195123333.001.0001
+  URL: http://dx.doi.org/10.1093/oso/9780195123333.001.0001
+  issued:
+    date-parts:
+    - - 2000
+  publisher-place: New York
+- id: mill1859
+  type: book
+  title: On Liberty
+  author:
+  - family: Mill
+    given: John Stuart
+  publisher: John W. Parker and Son
+  publisher-place: London
+  issued:
+    date-parts:
+    - - 1859
+- id: mol2008
+  type: book
+  title: 'The Logic of Care: Health and the Problem of Patient Choice'
+  author:
+  - family: Mol
+    given: Annemarie
+  publisher: Routledge
+  publisher-place: London
+  issued:
+    date-parts:
+    - - 2008
+- id: naniwada1993
+  type: chapter
+  title: A Japanese Perspective of the Transformation of Modern Civilizations
+  author:
+  - given: Haruo
+    family: Naniwada
+  container-title: 'Business Ethics: Japan and the Global Economy'
+  page: 153-171
+  publisher: Kluwer Academic Publishers
+  DOI: 10.1007/978-94-015-8183-7_8
+  issued:
+    date-parts:
+    - - 1993
+  editor:
+  - family: Dunfee
+    given: Thomas W.
+  - family: Nagayasu
+    given: Yukimasa
+  collection-title: Issues in Business Ethics
+  publisher-place: Dordrecht
+- id: nguyen2020
+  type: article-journal
+  title: Echo Chambers and Epistemic Bubbles
+  author:
+  - given: C. Thi
+    family: Nguyen
+  container-title: Episteme
+  volume: '17'
+  issue: '2'
+  page: 141-161
+  DOI: 10.1017/epi.2018.32
+  URL: http://dx.doi.org/10.1017/epi.2018.32
+  issued:
+    date-parts:
+    - - 2020
+- id: oneill2002
+  type: book
+  title: 'A Question of Trust: The BBC Reith Lectures 2002'
+  author:
+  - family: O'Neill
+    given: Onora
+  publisher: Cambridge University Press
+  publisher-place: Cambridge
+  issued:
+    date-parts:
+    - - 2002
+- id: oreskes2010
+  type: book
+  title: 'Merchants of Doubt: How a Handful of Scientists Obscured the Truth on Issues from Tobacco Smoke
+    to Global Warming'
+  author:
+  - family: Oreskes
+    given: Naomi
+  - family: Conway
+    given: Erik M.
+  publisher: Bloomsbury Press
+  publisher-place: New York
+  issued:
+    date-parts:
+    - - 2010
+- id: ostrom1990
+  type: book
+  title: 'Governing the Commons: The Evolution of Institutions for Collective Action'
+  author:
+  - family: Ostrom
+    given: Elinor
+  publisher: Cambridge University Press
+  DOI: 10.1017/cbo9780511807763
+  URL: http://dx.doi.org/10.1017/CBO9780511807763
+  issued:
+    date-parts:
+    - - 1990
+  publisher-place: Cambridge
+- id: pettit1999
+  type: book
+  title: 'Republicanism: A Theory of Freedom and Government'
+  author:
+  - given: Philip
+    family: Pettit
+  publisher: Oxford University Press
+  DOI: 10.1093/0198296428.001.0001
+  URL: http://dx.doi.org/10.1093/0198296428.001.0001
+  issued:
+    date-parts:
+    - - 1999
+  publisher-place: Oxford
+- id: polanyi1966
+  type: book
+  title: The Tacit Dimension
+  author:
+  - family: Polanyi
+    given: Michael
+  publisher: Doubleday
+  publisher-place: Garden City, NY
+  issued:
+    date-parts:
+    - - 1966
+- id: schelling1971
+  type: article-journal
+  title: Dynamic models of segregation
+  author:
+  - given: Thomas C.
+    family: Schelling
+  container-title: The Journal of Mathematical Sociology
+  volume: '1'
+  issue: '2'
+  page: 143-186
+  DOI: 10.1080/0022250x.1971.9989794
+  issued:
+    date-parts:
+    - - 1971
+- id: sloterdijk2009
+  type: article-journal
+  title: 'Rules for the Human Zoo: A Response to the Letter on Humanism'
+  author:
+  - given: Peter
+    family: Sloterdijk
+  container-title: 'Environment and Planning D: Society and Space'
+  volume: '27'
+  issue: '1'
+  page: 12-28
+  DOI: 10.1068/dst3
+  issued:
+    date-parts:
+    - - 2009
+- id: stiegler1998
+  type: book
+  title: 'Technics and Time, 1: The Fault of Epimetheus'
+  author:
+  - given: Bernard
+    family: Stiegler
+  publisher: Stanford University Press
+  DOI: 10.1515/9781503616738
+  URL: http://dx.doi.org/10.1515/9781503616738
+  issued:
+    date-parts:
+    - - 1998
+  translator:
+  - family: Beardsworth
+    given: Richard
+  - family: Collins
+    given: George
+  publisher-place: Stanford, CA
+- id: stiglitz2002
+  type: article-journal
+  title: Information and the Change in the Paradigm in Economics
+  author:
+  - family: Stiglitz
+    given: Joseph E.
+  container-title: American Economic Review
+  volume: '92'
+  issue: '3'
+  page: 460-501
+  DOI: 10.1257/00028280260136363
+  issued:
+    date-parts:
+    - - 2002
+- id: young2006
+  type: article-journal
+  title: 'Responsibility and Global Justice: A Social Connection Model'
+  author:
+  - given: Iris Marion
+    family: Young
+  container-title: Social Philosophy and Policy
+  volume: '23'
+  issue: '1'
+  page: 102-130
+  DOI: 10.1017/s0265052506060043
+  issued:
+    date-parts:
+    - - 2006

@@ -1,0 +1,294 @@
+[
+ {
+  "id": "arendt1961",
+  "families": [
+   "Arendt"
+  ],
+  "authors_text": "Arendt, H.",
+  "year": "1961",
+  "status": "UNVERIFIED"
+ },
+ {
+  "id": "balibar2014",
+  "families": [
+   "Balibar"
+  ],
+  "authors_text": "Balibar, É.",
+  "year": "2014",
+  "status": "UNVERIFIED"
+ },
+ {
+  "id": "boltanski2005",
+  "families": [
+   "Boltanski",
+   "Chiapello"
+  ],
+  "authors_text": "Boltanski, L., and Chiapello, È.",
+  "year": "2005",
+  "status": "UNVERIFIED"
+ },
+ {
+  "id": "bourdieu1984",
+  "families": [
+   "Bourdieu"
+  ],
+  "authors_text": "Bourdieu, P.",
+  "year": "1984",
+  "status": "UNVERIFIED"
+ },
+ {
+  "id": "castoriadis1987",
+  "families": [
+   "Castoriadis"
+  ],
+  "authors_text": "Castoriadis, C.",
+  "year": "1987",
+  "status": "UNVERIFIED"
+ },
+ {
+  "id": "collins2002",
+  "families": [
+   "Collins",
+   "Evans"
+  ],
+  "authors_text": "Collins, H. M., and Evans, R.",
+  "year": "2002",
+  "status": "UNVERIFIED"
+ },
+ {
+  "id": "deleuze1992",
+  "families": [
+   "Deleuze"
+  ],
+  "authors_text": "Deleuze, G.",
+  "year": "1992",
+  "status": "UNVERIFIED"
+ },
+ {
+  "id": "dewey1927",
+  "families": [
+   "Dewey"
+  ],
+  "authors_text": "Dewey, J.",
+  "year": "1927",
+  "status": "UNVERIFIED"
+ },
+ {
+  "id": "foucault1982",
+  "families": [
+   "Foucault"
+  ],
+  "authors_text": "Foucault, M.",
+  "year": "1982",
+  "status": "VERIFIED-CROSSREF"
+ },
+ {
+  "id": "fricker2007",
+  "families": [
+   "Fricker"
+  ],
+  "authors_text": "Fricker, M.",
+  "year": "2007",
+  "status": "UNVERIFIED"
+ },
+ {
+  "id": "hardwig1985",
+  "families": [
+   "Hardwig"
+  ],
+  "authors_text": "Hardwig, J.",
+  "year": "1985",
+  "status": "VERIFIED-CROSSREF"
+ },
+ {
+  "id": "hirschman1970",
+  "families": [
+   "Hirschman"
+  ],
+  "authors_text": "Hirschman, A. O.",
+  "year": "1970",
+  "status": "UNVERIFIED"
+ },
+ {
+  "id": "illich1973",
+  "families": [
+   "Illich"
+  ],
+  "authors_text": "Illich, I.",
+  "year": "1973",
+  "status": "VERIFIED-CROSSREF"
+ },
+ {
+  "id": "kant1784",
+  "families": [
+   "Kant"
+  ],
+  "authors_text": "Kant, I.",
+  "year": "1784",
+  "status": "UNVERIFIED"
+ },
+ {
+  "id": "kittay1999",
+  "families": [
+   "Kittay"
+  ],
+  "authors_text": "Kittay, E. F.",
+  "year": "1999",
+  "status": "UNVERIFIED"
+ },
+ {
+  "id": "latour2004",
+  "families": [
+   "Latour"
+  ],
+  "authors_text": "Latour, B.",
+  "year": "2004",
+  "status": "VERIFIED-CROSSREF"
+ },
+ {
+  "id": "longino1990",
+  "families": [
+   "Longino"
+  ],
+  "authors_text": "Longino, H. E.",
+  "year": "1990",
+  "status": "UNVERIFIED"
+ },
+ {
+  "id": "mackenzie2000",
+  "families": [
+   "Mackenzie",
+   "Stoljar"
+  ],
+  "authors_text": "Mackenzie, C., and Stoljar, N. (eds.)",
+  "year": "2000",
+  "status": "UNVERIFIED"
+ },
+ {
+  "id": "mill1859",
+  "families": [
+   "Mill"
+  ],
+  "authors_text": "Mill, J. S.",
+  "year": "1859",
+  "status": "UNVERIFIED"
+ },
+ {
+  "id": "mol2008",
+  "families": [
+   "Mol"
+  ],
+  "authors_text": "Mol, A.",
+  "year": "2008",
+  "status": "UNVERIFIED"
+ },
+ {
+  "id": "naniwada1993",
+  "families": [
+   "Naniwada"
+  ],
+  "authors_text": "Naniwada, H.",
+  "year": "1993",
+  "status": "VERIFIED-CROSSREF"
+ },
+ {
+  "id": "nguyen2020",
+  "families": [
+   "Nguyen"
+  ],
+  "authors_text": "Nguyen, C. T.",
+  "year": "2020",
+  "status": "UNVERIFIED"
+ },
+ {
+  "id": "oneill2002",
+  "families": [
+   "O'Neill"
+  ],
+  "authors_text": "O'Neill, O.",
+  "year": "2002",
+  "status": "UNVERIFIED"
+ },
+ {
+  "id": "oreskes2010",
+  "families": [
+   "Oreskes",
+   "Conway"
+  ],
+  "authors_text": "Oreskes, N., and Conway, E. M.",
+  "year": "2010",
+  "status": "UNVERIFIED"
+ },
+ {
+  "id": "ostrom1990",
+  "families": [
+   "Ostrom"
+  ],
+  "authors_text": "Ostrom, E.",
+  "year": "1990",
+  "status": "UNVERIFIED"
+ },
+ {
+  "id": "pettit1999",
+  "families": [
+   "Pettit"
+  ],
+  "authors_text": "Pettit, P.",
+  "year": "1999",
+  "status": "UNVERIFIED"
+ },
+ {
+  "id": "polanyi1966",
+  "families": [
+   "Polanyi"
+  ],
+  "authors_text": "Polanyi, M.",
+  "year": "1966",
+  "status": "UNVERIFIED"
+ },
+ {
+  "id": "schelling1971",
+  "families": [
+   "Schelling"
+  ],
+  "authors_text": "Schelling, T. C.",
+  "year": "1971",
+  "status": "VERIFIED-CROSSREF"
+ },
+ {
+  "id": "sloterdijk2009",
+  "families": [
+   "Sloterdijk"
+  ],
+  "authors_text": "Sloterdijk, P.",
+  "year": "2009",
+  "status": "VERIFIED-CROSSREF"
+ },
+ {
+  "id": "stiegler1998",
+  "families": [
+   "Stiegler"
+  ],
+  "authors_text": "Stiegler, B.",
+  "year": "1998",
+  "status": "UNVERIFIED"
+ },
+ {
+  "id": "stiglitz2002",
+  "families": [
+   "Stiglitz"
+  ],
+  "authors_text": "Stiglitz, J. E.",
+  "year": "2002",
+  "status": "VERIFIED-CROSSREF"
+ },
+ {
+  "id": "young2006",
+  "families": [
+   "Young"
+  ],
+  "authors_text": "Young, I. M.",
+  "year": "2006",
+  "status": "VERIFIED-CROSSREF"
+ }
+]
